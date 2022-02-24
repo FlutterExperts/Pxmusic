@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "910534158133",
+    "firebase_url": "https://px-music-d75cb-default-rtdb.firebaseio.com",
+    "project_id": "px-music-d75cb",
+    "storage_bucket": "px-music-d75cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910534158133:android:c3035295e4a073ea848e7c",
+        "android_client_info": {
+          "package_name": "com.example.Wow_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxk8em2qrk2KBf0y9JqRuFokqF2Ys1ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910534158133-46cie3hqjqi8o43recs77stfrcor0gc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wowMusic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910534158133:android:436c2e7a804d42a7848e7c",
+        "android_client_info": {
+          "package_name": "com.example.Wowbeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910534158133-ieeb94hje72un5bc0ddt1cc2kj9ckhnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Wowbeats",
+            "certificate_hash": "93d9cf838faa5f5411cd74c4d165bb071655e0a2"
+          }
+        },
+        {
+          "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxk8em2qrk2KBf0y9JqRuFokqF2Ys1ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910534158133-46cie3hqjqi8o43recs77stfrcor0gc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wowMusic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910534158133:android:a91c22e09101e801848e7c",
+        "android_client_info": {
+          "package_name": "com.example.pxmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxk8em2qrk2KBf0y9JqRuFokqF2Ys1ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910534158133-46cie3hqjqi8o43recs77stfrcor0gc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wowMusic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910534158133:android:8eed4817c508e29c848e7c",
+        "android_client_info": {
+          "package_name": "com.pxmusic.pxmusic_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxk8em2qrk2KBf0y9JqRuFokqF2Ys1ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910534158133-46cie3hqjqi8o43recs77stfrcor0gc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wowMusic"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910534158133:android:9a4866a6e614aa5d848e7c",
+        "android_client_info": {
+          "package_name": "com.shadow.blackhole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxk8em2qrk2KBf0y9JqRuFokqF2Ys1ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910534158133-6n9832ijdvnfhhmck45lbnsto6u8n33u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910534158133-46cie3hqjqi8o43recs77stfrcor0gc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wowMusic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
